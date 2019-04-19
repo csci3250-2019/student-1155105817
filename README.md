@@ -21,4 +21,4 @@ First Header | Second Header
 Content cell 1 | Content cell 2
 Content column 1 | Content column 2
 
-![Alt text](/Users/leungchunyin/Desktop/CUHK/year2/sem2/student-1155105817/student-1155105817/img/1_add.png?raw=true "Title")
+![Screen_shot](./img/1_add.png?raw=true "Title")
